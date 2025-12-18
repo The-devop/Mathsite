@@ -1,0 +1,33 @@
+body {
+    background: #0f172a;
+    color: #e5e7eb;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 80px;
+}
+
+#card {
+    background: #020617;
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #38bdf8;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 10px 0;
+    background: #020617;
+    color: white;
+    border: 1px solid #38bdf8;
+}
+
+button {
+    padding: 8px 15px;
+    background: #38bdf8;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
